@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Finosphere Technologies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 1rem;
+        }
+        nav {
+            background: #444;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            padding: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Finosphere Technologies</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>Our Services</h2>
+        <p>At Finosphere Technologies, we offer a comprehensive suite of AI-powered trading solutions:</p>
+        <ul>
+            <li><strong>Market Analysis & Insights:</strong> Real-time data tracking and AI-driven stock analysis.</li>
+            <li><strong>Automated Trading:</strong> Execution of trades using smart algorithms.</li>
+            <li><strong>Client Support:</strong> AI chatbot for real-time assistance and trading-related queries.</li>
+            <li><strong>Risk Management:</strong> Advanced risk assessment tools to optimize trading strategies.</li>
+        </ul>
+    </div>
+</body>
+</html>
